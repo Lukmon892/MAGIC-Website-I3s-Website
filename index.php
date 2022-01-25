@@ -662,7 +662,7 @@
                     <div class="accordion-body"  style="font-family:'Times New Roman', Times, serif">
                       <ul>
 
-                        <a href="event.html" class="btn btn-link">Upcomming Event</a>
+                        <a href="event.php" class="btn btn-link">Upcomming Event</a>
                        
                       </ul>
                     </div>
