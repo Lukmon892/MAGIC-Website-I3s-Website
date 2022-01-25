@@ -91,20 +91,20 @@
             <a href="#about" class="nav-link">About</a>
           </li>-->
             <li class="nav-item my-3">
-              <a href="index.html" class="nav-link">Home</a>
+              <a href="index.php" class="nav-link">Home</a>
             </li>
             <li class="nav-item my-3">
-              <a href="index.html" class="nav-link">Speaker's Bureau</a>
+              <a href="index.php" class="nav-link">Speaker's Bureau</a>
             </li>
             <li class="nav-item my-3">
-              <a href="I3s.html" class="nav-link">I3S</a>
+              <a href="I3s.php" class="nav-link">I3S</a>
             </li>
             <li class="nav-item my-3">
-              <a href="index.html" class="nav-link">Questions</a>
+              <a href="index.php" class="nav-link">Questions</a>
               </li>
           </li>
             <li class="nav-item my-3">
-              <a href="index.html" class="nav-link">Initiatives</a>
+              <a href="index.php" class="nav-link">Initiatives</a>
             </li>
             <li class="nav-item my-3">
               <a href="#people" class="nav-link">People</a>
@@ -145,7 +145,7 @@
             </div> -->
               <!-- <img src="img/support.png" class="img-fluid" alt=""/> -->
               <div class = "container back_home_btn">
-                <a href="index.html" class="btn btn-secondary" style="font-family:'Times New Roman', Times, serif">Back</a>
+                <a href="index.php" class="btn btn-secondary" style="font-family:'Times New Roman', Times, serif">Back</a>
               </div>
           </div>
         </div>

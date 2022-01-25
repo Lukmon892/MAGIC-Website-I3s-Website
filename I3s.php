@@ -101,13 +101,13 @@
               <a href="#people" class="nav-link">People</a>
             </li>
             <li class="nav-item my-3">
-              <a href="index.html" class="nav-link">MAGIC</a>
+              <a href="index.php" class="nav-link">MAGIC</a>
             </li>
             <li class="nav-item my-3">
               <a href="#contact" class="nav-link">Contacts</a>
             </li>
             <li class="nav-item my-3">
-                <a href="affiliation.html" class="nav-link">Affiliations</a>
+                <a href="affiliation.php" class="nav-link">Affiliations</a>
               </li>
             
           </li>

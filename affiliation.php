@@ -101,7 +101,7 @@
               <a href="#people" class="nav-link">People</a>
             </li>
             <li class="nav-item my-3">
-              <a href="index.html" class="nav-link">MAGIC</a>
+              <a href="index.php" class="nav-link">MAGIC</a>
             </li>
             <li class="nav-item my-3">
               <a href="#contact" class="nav-link">Contacts</a>
@@ -208,7 +208,7 @@
           </div> -->
             <!-- <img src="img/support.png" class="img-fluid" alt=""/> -->
             <div class = "container back_home_btn">
-              <a href="i3s.html" class="btn btn-secondary" style="font-family:'Times New Roman', Times, serif">Back</a>
+              <a href="i3s.php" class="btn btn-secondary" style="font-family:'Times New Roman', Times, serif">Back</a>
             </div>
         </div>
       </div>

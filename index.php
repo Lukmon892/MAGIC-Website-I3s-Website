@@ -207,7 +207,7 @@
                          <!-- <button type="button" class="btn btn-primary" style="font-family:'Times New Roman', Times, serif" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="for the university. We are particularly interested in aligning this research work with areas of strategic importance for the university, including artificial intelligence and intelligent systems, cybersecurity, marine science and engineering, and remoote sensing, among others.">
                             Read More
                           </button>-->
-                         <a href="overview.html" class="btn btn-light" style="font-family:'Times New Roman', Times, serif">Read More</a>
+                         <a href="overview.php" class="btn btn-light" style="font-family:'Times New Roman', Times, serif">Read More</a>
                         </div>
                       </div>
                     </div>
@@ -224,7 +224,7 @@
                             MAGIC members offer valuable councel on research projects, provide developmental opportunities in their respective fields of expertise, and serve as conduits for students interested in millitary, intelligence.
                              <!-- <span id="text2">and government(MIG) pathways</span> -->
                           </p>
-                          <a href="overview.html" class="btn btn-light" style="font-family:'Times New Roman', Times, serif">Read More</a>
+                          <a href="overview.php" class="btn btn-light" style="font-family:'Times New Roman', Times, serif">Read More</a>
                         </div>
                       </div>
                     </div>
@@ -239,7 +239,7 @@
                           <p class="card-text" style="font-family:'Times New Roman', Times, serif">MAGIC members will support UNCW personnel connections with local, state, and federal agencies as appropriate and within system office policy and guidlines to advance the mission of the University
                            <!-- <span id="text3">particular directed at research, acedemics, and economic development.</span> -->
                           </p>
-                          <a href="overview.html" class="btn btn-light" style="font-family:'Times New Roman', Times, serif">Read More</a>
+                          <a href="overview.php" class="btn btn-light" style="font-family:'Times New Roman', Times, serif">Read More</a>
                         </div>
                       </div>
                     </div>
@@ -297,7 +297,7 @@
                 </div>
   
                 <div class="card-footer bg-transparent border-success">
-                  <a href="overview.html" class="btn btn-light mt-3" style="font-family:'Times New Roman', Times, serif">Read More
+                  <a href="overview.php" class="btn btn-light mt-3" style="font-family:'Times New Roman', Times, serif">Read More
                 </a>
               </div>
               </div>
@@ -343,7 +343,7 @@
                 quae similique laboriosam iste minus placeat odit velit quos,
                 nulla architecto amet voluptates?
               </p>-->
-              <a href="I3s.html" class="btn btn-secondary mt-3" style="font-family:'Times New Roman', Times, serif">Read More</a>
+              <a href="I3s.php" class="btn btn-secondary mt-3" style="font-family:'Times New Roman', Times, serif">Read More</a>
             </div>
             <!-- <div class="col-md"> -->
               <img src="img/13s.jpg" class="img-fluid" alt=""/>
