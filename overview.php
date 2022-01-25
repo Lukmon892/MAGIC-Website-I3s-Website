@@ -91,10 +91,10 @@
             <a href="#about" class="nav-link">About</a>
           </li>-->
             <li class="nav-item my-3">
-              <a href="#home" class="nav-link">Home</a>
+              <a href="index.php" class="nav-link">Home</a>
             </li>
             <li class="nav-item my-3">
-              <a href="#speaker's" class="nav-link">Speaker's Bureau</a>
+              <a href="#index.php" class="nav-link">Speaker's Bureau</a>
             </li>
             <li class="nav-item my-3">
               <a href="I3s.php" class="nav-link">I3S</a>
@@ -104,7 +104,7 @@
               </li>
           </li>
             <li class="nav-item my-3">
-              <a href="#index.html" class="nav-link">Initiatives</a>
+              <a href="#index.php" class="nav-link">Initiatives</a>
             </li>
             <li class="nav-item my-3">
               <a href="index.php" class="nav-link">People</a>
