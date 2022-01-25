@@ -583,7 +583,7 @@
               <h2 class="text-center mb-4" style="font-family:'Times New Roman', Times, serif">Initiatives</h2>
               <div class="accordion accordion-flush" id="initiatives">
                 <!-- Item 1 -->
-                <div class="accordion-item">
+                <!-- <div class="accordion-item">
                   <h2 class="accordion-header">
                     <button
                       class="accordion-button collapsed"
@@ -601,7 +601,7 @@
                     <div class="accordion-body text-dark"  style="font-family:'Times New Roman', Times, serif">
                        <p> The University of North Carolina Wilmington's (UNCW) Military Affairs, Government, and Intelligence Council (MAGIC) works to advamce the university's mission by engaging MAGIC members' strategic, technical and cultural expertise. The council works to forge connections and build relationships with local, regional, and national agencies and leaders that will help advance research and academic programing for the university such as Artifial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Generative Adversarial Networks (GANS), Intelligent Systems, Cybersecurity, Marine Science, Remote Sensing, Organizational Leadership, and Careers in the federal sectors.</p>
                        
-                       <p>MAGIC members offer valuable counsel on research projects, provide developmental opportunities in their respective fields of expertise, and serve as conduits for students interested in military, intelligence, and government (MIG) pathways.</p>
+                       <p>MAGIC members offer valuable counsel on research projects, provide developmental opportunities in their respective fields of expertise, and serve as conduits for students interested in military, intelligence, and government (MIG) pathways.</p> -->
 
                       <!--<ul>
                         <li>Members serve a two year renewable term.</li>
@@ -610,9 +610,9 @@
                         <li>Members are expected to attend MAGIC meetings to promote continuity. We expect to hold 3-4 regular business meetings per year, with special meetings called as needed.</li>
                         <li>In accord with UNCW, UNC System policy, and the law, members will act as advocates for UNCW, the respective Colleges, and the Office of Research and Innovation.</li>
                       </ul> -->
-                    </div>
+                    <!-- </div>
                   </div>
-                </div>
+                </div> -->
 
                 <div class="accordion-item">
                   <h2 class="accordion-header">
