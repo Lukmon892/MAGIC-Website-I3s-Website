@@ -225,7 +225,7 @@
                     </div> -->
                     <h2 class="card-title mb-3" style="font-family:'Times New Roman', Times, serif"><span class="a_color"><strong>Commercial MORPH dataset</strong></span></h2>
                     <p class="card-text" style="font-family:'Times New Roman', Times, serif">
-                      The database was collected over a span of 10 years and contains 201,997 unique images of 40,390 subjects. Subject ages range from 15 to 78 with a median age of 30. Both datasets contain metadata in the form of age, gender, race, height, weight, and eye coordinates. For license information on commercial dataset email:<a href="mailto:ricanekk@uncw.edu" class="a_color"><strong> ricanekk@uncw.edu</strong></a>
+                      The database was collected over a span of 10 years and contains 201,997 unique images of 40,390 subjects. Subject ages range from 15 to 78 with a median age of 30. Both datasets contain metadata in the form of age, gender, race, height, weight, and eye coordinates. For license information on commercial dataset email:<a href="mailto:ricanekk@uncw.edu" class="a_color bg-light"><strong> ricanekk@uncw.edu</strong></a>
                     </p>
                     <!-- <a href="overview.html" class="btn btn-primary" style="font-family:'Times New Roman', Times, serif">Read More</a> -->
                   </div>
