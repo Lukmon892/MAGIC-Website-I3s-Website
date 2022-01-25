@@ -190,9 +190,9 @@
                     <!--<div class="h1 mb-3">
                       <i class="bi bi-laptop"></i>
                     </div>-->
-                    <h3 class="card-title mb-3" style="font-family:'Times New Roman', Times, serif"><span class="a_color bg-light lead"><strong>Non Commercial Version</strong></span></h3>
+                    <h3 class="card-title mb-3" style="font-family:'Times New Roman', Times, serif"><span class="a_color lead"><strong>Non Commercial Version</strong></span></h3>
                     <p class="card-text" style="font-family:'Times New Roman', Times, serif">
-                      non-commercial MORPH dataset: was collected over a span of 5 years and contains 55,000 unique images of more than 13,000 individuals, spanning from 2003 to late 2007. A UNCW uStore was setup in the TouchNet information system to sell the non-commercial version of MORPH online:<a class="a_color" href="https://ebill.uncw.edu/C20231_ustores/web/product_detail.jsp?PRODUCTID=8&SINGLESTORE=true"> Non commercial version of MORPH</a>
+                      non-commercial MORPH dataset: was collected over a span of 5 years and contains 55,000 unique images of more than 13,000 individuals, spanning from 2003 to late 2007. A UNCW uStore was setup in the TouchNet information system to sell the non-commercial version of MORPH online:<a class="a_color bg-light" href="https://ebill.uncw.edu/C20231_ustores/web/product_detail.jsp?PRODUCTID=8&SINGLESTORE=true"><strong> Non commercial version of MORPH</strong></a>
                     </p>
                    <!-- <button type="button" class="btn btn-primary" style="font-family:'Times New Roman', Times, serif" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="for the university. We are particularly interested in aligning this research work with areas of strategic importance for the university, including artificial intelligence and intelligent systems, cybersecurity, marine science and engineering, and remoote sensing, among others.">
                       Read More
