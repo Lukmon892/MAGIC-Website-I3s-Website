@@ -514,14 +514,14 @@ section {
 }
 
 @media (min-width: 768px) {
-  .container #pageheader {
+  /* .container #pageheader {
     height: 135px;
     margin: 0 0 35px 0;
     font-family: Palatino, "Palatino Linotype", "Times New Roman", Times, serif;
     font-size: 2.8em;
     color: #007073;
     padding: 50px 0 0 50px;
-  }
+  } */
 }
 
 .collapse-content .fa.fa-heart:hover {
