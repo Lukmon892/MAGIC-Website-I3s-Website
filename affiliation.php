@@ -13,7 +13,7 @@
   <body>
   <nav class="navbar navbar-expand-lg bg-light navbar-light margin-top:56px; padding-top: 105px; fixed-top fixed-top-2">
     <div class="container">
-      <img class="img-fluid w-50"  src="img/UNCW_navbar_image.png" alt ="">
+      <img class="img-fluid w-50"  src="img/try-removebg-preview.png" alt ="">
       <!--<a href="#" class="navbar-brand">UNCW MAGIC</a>-->
 
       <button
