@@ -69,7 +69,7 @@
 
       <div class="navbar-nav">
       <a href="#" class="navbar-brand">
-        <span style="font-size: 130%; text-align:center; font-family:'Times New Roman', Times, serif; justify-content:center; display:flex" class="text-light text-sm-start p-10 text-wrap-
+        <span style="font-size: 130%; text-align:center; font-family:'Times New Roman', Times, serif; justify-content:center; display:flex" class="text-light text-sm-start p-10 text-wrap
         ">Millitary Affairs, Government, and Intelligence Council (MAGIC)</span></a>
 
         <!--<h5 style="font-size: 160%; text-align:center; font-family:'Times New Roman', Times, serif; text-align:center; justify-content:center; display:flex" class="text-light text-sm-start p-10
